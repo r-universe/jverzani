@@ -5,6 +5,9 @@
 [submodule "Devore7"]
 	path = Devore7
 	url = https://github.com/cran/Devore7
+[submodule "UsingR"]
+	path = UsingR
+	url = https://github.com/cran/UsingR
 [submodule "gWidgets2tcltk"]
 	path = gWidgets2tcltk
 	url = https://github.com/jverzani/gwidgets2tcltk
